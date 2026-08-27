@@ -1,0 +1,6 @@
+site_name: TrackPkgs Documentation
+site_url: https://trackpkgs.readthedocs.io
+theme: readthedocs
+nav:
+  - Home: index.md
+  - Standards: Universal-Package-Tracking-Standards.md
